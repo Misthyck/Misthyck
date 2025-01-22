@@ -35,5 +35,6 @@ Estou iniciando minha jornada no mundo da tecnologia com um foco em JavaScript, 
 
 ---
 
+### 🚀 Vamos juntos nessa jornada!
 
-"Continuar aprendendo e nunca parar de evoluir!" 💡
+"**Continuar aprendendo e nunca parar de evoluir!**" 💡
