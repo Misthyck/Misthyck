@@ -30,7 +30,6 @@ Estou iniciando minha jornada no mundo da tecnologia com um foco em JavaScript, 
 
 <div style="display: flex; gap: 10px;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_title=true&theme=dark" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&langs_count=6&theme=dark" />
 </div>
 
 ---
