@@ -2,4 +2,4 @@
 
 🔹 **Age:** 19 Years Old
 🔹 **Tecnology:** Python, PHP, MYSQL, JavaScript, HTML, CSS
-🔹 **Objective:** SOC Analyst N1.
+🔹 **Objective:** Pentester Jr.
